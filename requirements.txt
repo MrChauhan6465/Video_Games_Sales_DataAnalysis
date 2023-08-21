@@ -1,0 +1,49 @@
+Key Performance Indicators (KPIs):
+
+Total Global Sales (sum of Global Sales column)
+Average User Score (calculate the average of User Score column)
+Average Critic Score (calculate the average of Critic Score column)
+Total Number of Games Released (count the rows)
+Total Number of Developers (count distinct values in Developer column)
+Total Number of Publishers (count distinct values in Publisher column)
+Total Number of Platforms (count distinct values in Platform column)
+Total Number of Genres (count distinct values in Genre column)
+Average Sales per Game (calculate average sales per game)
+Market Share by Region (calculate the percentage of sales for each region)
+Charts and Visualizations:
+
+Line Chart:
+
+Yearly Sales Trends (Total Global Sales over the years)
+User Score vs. Critic Score trend over time
+Developer and Publisher Market Share trends over the years
+
+Bar/Column Chart:
+
+Platform Sales Comparison (Sales on different platforms)
+Genre Sales Comparison (Sales by genre)
+Publisher Sales Comparison (Sales by publisher)
+Region-wise Sales Comparison (Sales by region)
+Pie Chart:
+
+Market Share by Genre (Percentage distribution of sales by genre)
+Market Share by Platform (Percentage distribution of sales by platform)
+Market Share by Publisher (Percentage distribution of sales by publisher)
+Market Share by Rating (Percentage distribution of sales by rating)
+Scatter Plot:
+
+User Score vs. Critic Score (to visualize the correlation)
+Sales vs. User Count (to understand the relation between sales and user engagement)
+Heat Map:
+
+Correlation between different numerical variables (e.g., Sales, User Score, Critic Score)
+Sales distribution across platforms and genres
+Map Visualization:
+
+Geographical distribution of sales by region (world map visualization)
+Slicers and Filters:
+
+Interactive filters for users to select specific genres, platforms, years, etc.
+Table Visualization:
+
+List of top-selling games, developers, publishers, etc.
